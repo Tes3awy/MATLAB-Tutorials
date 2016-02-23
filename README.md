@@ -6,6 +6,8 @@ It's a simple program that gives great results.
 
 It uses Image Thresholding Technique for Tumor detection, also a simple dilation process is done for more accuracy.
 
+You can also watch my tutorial on youtube.com at https://www.youtube.com/watch?v=UeFRo7uALhM
+
 It's all free to use, but keep supporting me, just mention my repo here on Github.com
 
 ----------------------------------------------------------------------------------------------------------------------------
