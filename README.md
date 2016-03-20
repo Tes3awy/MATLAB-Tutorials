@@ -1,6 +1,6 @@
 # MatLab-Tutorials
 
-This Standalone Program is designed for Brain Tumor Detection using Grayscale Images.
+This Standalone Program is designed for Brain Tumor Detection using Grayscale Images, or even RGB ones.
 
 It's a simple program that gives great results.
 
