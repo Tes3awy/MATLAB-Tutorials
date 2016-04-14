@@ -24,8 +24,6 @@ There is a difference between a brain and a brain tumor, in a nutshell the solid
 This concept is taken into consideration while writing the MatLab Code, where the pixels of a tumor is likely to be almost the same
 than the pixels of the brain itself.
 
-You have to have a 64-bit machine and Matlab to run the application, and also you must have Matlab 8.5 compiler to make the application work. To download Matlab 8.5 compiler visit: http://www.mathworks.com/products/compiler/mcr/
-
-Download the 8.5 Compiler compatible with your Matlab Version.
+You have to have a 64-bit machine and Matlab to run the application, and also you must have Matlab 8.5 compiler to make the application work. To download Matlab 8.5 compiler visit: http://www.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win64/MCR_R2015a_win64_installer.exe
 
 For any information, feel free to contact me on osaid2512(at)gmail(dot)com
