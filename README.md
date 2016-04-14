@@ -4,15 +4,17 @@ This Standalone Program is designed for Brain Tumor Detection using Grayscale Im
 
 It's a simple program that gives great results.
 
-It uses Image Thresholding Technique for Tumor detection, also a simple dilation process is done for more accuracy.
+It uses Image Thresholding Technique for Tumor detection, also a simple morphological dilation process is done for more accuracy.
 
 It depends on the solidity of each part inside the brain, i.e. the skull, the brain itself, and the tumor.
 
-The tumor has the highest solidity among them.
+The tumor has the highest solidity amongest them.
 
-You can also watch my tutorial on youtube.com at https://www.youtube.com/watch?v=UeFRo7uALhM
+You can also watch my tutorial on youtube.com @: https://www.youtube.com/watch?v=UeFRo7uALhM
 
-It's all free to use, but keep supporting me, just mention my repo here on Github.com
+It's all free to use, but keep supporting me, just keep mentioning my repo here on Github.com
+
+The more subscribers, the more tutorials I'll post
 
 ----------------------------------------------------------------------------------------------------------------------------
 # Importnat Notes:
