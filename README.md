@@ -26,4 +26,4 @@ You have to have a 64-bit machine and Matlab to run the application, and also yo
 
 Download the 8.5 Compiler compatible with your Matlab Version.
 
-For any information, feel free to contact me on osaid2512@gmail.com
+For any information, feel free to contact me on osaid2512(at)gmail(dot)com
