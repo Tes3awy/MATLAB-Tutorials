@@ -26,4 +26,4 @@ than the pixels of the brain itself.
 
 You have to have a 64-bit machine and Matlab to run the application, and also you must have Matlab 8.5 compiler to make the application work. To download Matlab 8.5 compiler visit: http://www.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win64/MCR_R2015a_win64_installer.exe
 
-For any information, feel free to contact me on osaid2512(at)gmail(dot)com
+For any information, feel free to pull request.
